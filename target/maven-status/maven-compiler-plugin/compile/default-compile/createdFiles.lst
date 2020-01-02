@@ -1,0 +1,7 @@
+com\api\repository\LocationRepository.class
+com\api\controller\LocationController.class
+com\api\model\Location.class
+com\api\repository\HoteRepository.class
+com\api\model\Hote.class
+com\api\controller\HoteController.class
+com\api\LocationMaison.class
